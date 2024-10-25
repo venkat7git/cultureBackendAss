@@ -1,0 +1,2 @@
+GET http://localhost:3007/productsSum
+Content-Type: application/json
